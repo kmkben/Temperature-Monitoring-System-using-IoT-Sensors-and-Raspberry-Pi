@@ -5,19 +5,18 @@ This project implements a temperature monitoring system using IoT sensors, Raspb
 
 ## Features
 
-    Temperature Monitoring: The system reads temperature data from IoT sensors (DHT11) and displays it on an LCD screen.
+  - Temperature Monitoring: The system reads temperature data from IoT sensors (DHT11) and displays it on an LCD screen.
 
-    Threshold Alerts: Users can set temperature thresholds. If the temperature exceeds the threshold, an LED indicator starts blinking to alert the user.
+  - Threshold Alerts: Users can set temperature thresholds. If the temperature exceeds the threshold, an LED indicator starts blinking to alert the user.
 
-    Client-Server Communication: The system utilizes client-server communication for remote temperature monitoring. Clients can connect to the server and receive real-time temperature updates.
+  - Client-Server Communication: The system utilizes client-server communication for remote temperature monitoring. Clients can connect to the server and receive real-time temperature updates.
 
 ## Prerequisites
 
-    Raspberry Pi 3 (or compatible)
-    DHT11 IoT Temperature Sensor
-    LCD Display
-    LED Indicators
-    Other required components (wires, resistors, etc.)
+  - Raspberry Pi 3 (or compatible)
+  - DHT11 IoT Temperature Sensor
+  - LCD Display
+  - LED Indicators
 
 ## Installation
 #### Clone the Repository:
