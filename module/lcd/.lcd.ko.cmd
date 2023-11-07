@@ -1,0 +1,1 @@
+cmd_/home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.ko /home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.o /home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.mod := printf '%s\n'   lcd.o | awk '!x[$$0]++ { print("/home/kdno1/Documents/formation/POEI/project/app/module/lcd/"$$0) }' > /home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.mod

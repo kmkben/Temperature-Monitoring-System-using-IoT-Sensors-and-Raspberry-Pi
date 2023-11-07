@@ -1,0 +1,1 @@
+cmd_/home/kdno1/Documents/formation/POEI/project/app/module/lcd/modules.order := {   echo /home/kdno1/Documents/formation/POEI/project/app/module/lcd/lcd.ko;   echo /home/kdno1/Documents/formation/POEI/project/app/module/lcd/../dht11/dht11.ko; :; } > /home/kdno1/Documents/formation/POEI/project/app/module/lcd/modules.order

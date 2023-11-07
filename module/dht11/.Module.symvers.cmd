@@ -1,0 +1,1 @@
+cmd_/home/kdno1/Documents/formation/POEI/project/app/module/dht11/Module.symvers :=  sed 's/ko$$/o/'  /home/kdno1/Documents/formation/POEI/project/app/module/dht11/modules.order | scripts/mod/modpost -m -a    -o /home/kdno1/Documents/formation/POEI/project/app/module/dht11/Module.symvers -e -i Module.symvers -T - 
